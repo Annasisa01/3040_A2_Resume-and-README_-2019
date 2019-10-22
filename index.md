@@ -4,6 +4,9 @@
 Ambitious and motivated person, able to adapt to new environments and various technical working skills. Team player with strong work ethic and commitment to task completion, able to work in fast-paced environments and operate efficiently under tight pressure while simultaneously juggling multiple projects with minimal supervision. Very much interested in music and sports.
 
 ### Education
+## New Education
+
+
 **University of Manitoba**: Bachelor of Science (BSc. Computer Science)  
 * Related coursework in Calculus , Java, C, C++, HTML, JavaScript and CSS
 
@@ -33,7 +36,7 @@ Ambitious and motivated person, able to adapt to new environments and various te
 ### Skills
 * Motivated team player
 * Strong interpersonal skills
-* Active listening skills 
+* Active listening skills
 * Goal-oriented
 * Quick learner
 * Positive and friendly
