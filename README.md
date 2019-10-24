@@ -8,8 +8,8 @@ Using Git Flavored Markdown and Jekyll to edit A Resume
 
 ### Configuration
   1. Open a new repository on you GitHub Pages account
-    * Click on the new button ![alt text](Images/image1.15.15 PM.png)
-  *
+    * Click on the new button ![alt text](image1.15.15 PM.png)
+
 
 ```bash
 pip install foobar
