@@ -2,7 +2,7 @@
 Using Git Flavored Markdown and Jekyll to edit A Resume
 
 ### Installation
-1. Install IDE
+1. Install IDE  
   * Install Atom IDE using this link: [https://flight-manual.atom.io/getting-started/sections/installing-atom/](https://flight-manual.atom.io/getting-started/sections/installing-atom/).
 
 <!-- ### Configuration
