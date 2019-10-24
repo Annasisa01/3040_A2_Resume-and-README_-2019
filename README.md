@@ -1,4 +1,5 @@
 # Resume and README on GitHub
+---
 
 Using Git Flavored Markdown and Jekyll to edit A Resume
 
@@ -8,7 +9,7 @@ Using Git Flavored Markdown and Jekyll to edit A Resume
 
 ### Configuration
   1. Open a new repository on you GitHub Pages account
-    * Click on the new button ![alt text](https://github.com/Annasisa01/IsaAnnas.github.io/blob/master/img/image1.15.15%20PM.png)
+* Click on the new button ![alt text](https://github.com/Annasisa01/IsaAnnas.github.io/blob/master/img/image1.15.15%20PM.png)
 <!--
 ```bash
 pip install foobar
