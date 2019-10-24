@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# Resume and README on GitHub
 
-You can use the [editor on GitHub](https://github.com/Annasisa01/3040_A2_Resume-and-README_-2019/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Using Git Flavored Markdown and Jekyll to edit A Resume
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Installation
+1. Install IDE
+  * Install Atom IDE using this link: [https://flight-manual.atom.io/getting-started/sections/installing-atom/](https://flight-manual.atom.io/getting-started/sections/installing-atom/).
 
-### Markdown
+### Configuration
+  1. Open a new repository on you GitHub Pages account
+    * Click on the new button ![alt text](image1.15.15 PM.png)
+  *
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```bash
+pip install foobar
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Usage
 
-### Jekyll Themes
+```python
+import foobar
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Annasisa01/3040_A2_Resume-and-README_-2019/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+foobar.pluralize('word') # returns 'words'
+foobar.pluralize('goose') # returns 'geese'
+foobar.singularize('phenomena') # returns 'phenomenon'
+```
 
-### Support or Contact
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
