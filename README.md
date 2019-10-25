@@ -2,12 +2,21 @@
 Using Git Flavored Markdown and Jekyll to edit A Resume
 
 ### Installation
-1. Install IDE  
+---
+1. Install IDE
   * Install Atom IDE using this link: [https://flight-manual.atom.io/getting-started/sections/installing-atom/](https://flight-manual.atom.io/getting-started/sections/installing-atom/).
 
-<!-- ### Configuration
+### Configuration
+---
 1. Open a new repository on you GitHub Pages account
-  * Click on the new button ![alt text](https://github.com/Annasisa01/IsaAnnas.github.io/blob/master/img/image1.15.15%20PM.png) -->
+  + Click on the **New** button ![New Button](https://github.com/Annasisa01/IsaAnnas.github.io/blob/master/img/image1.15.15%20PM.png)
+2. Connect GitHub repository to IDE.
+  + Click on the **Clone or download** button ![Clone or download button](https://github.com/Annasisa01/IsaAnnas.github.io/blob/master/img/Image2.png)
+  + Copy the link to the repository.  
+  `Copy using Clipboard button or,`  
+  `Copy using: Cmd + V`
+  + Open your IDE.
+  +
 <!--
 ```bash
 pip install foobar
