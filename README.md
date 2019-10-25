@@ -2,12 +2,10 @@
 Using Git Flavored Markdown and Jekyll to edit A Resume
 
 ## Installation
----
 1. Install IDE
   * Install Atom IDE using this link: [https://flight-manual.atom.io/getting-started/sections/installing-atom/](https://flight-manual.atom.io/getting-started/sections/installing-atom/).
 
 ## Configuration
----
 1. Open a new repository on you GitHub Pages account
   + Click on the **New** button ![New Button](https://github.com/Annasisa01/IsaAnnas.github.io/blob/master/img/image1.15.15%20PM.png)
 2. Connect GitHub repository to Atom.
@@ -22,7 +20,6 @@ Using Git Flavored Markdown and Jekyll to edit A Resume
     - `Right click and the select "Paste"`
 
 ## Operation
----
 
 
 <!--
