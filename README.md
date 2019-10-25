@@ -22,10 +22,10 @@ Using Git Flavored Markdown and Jekyll to edit A Resume
 ## Operation
 1. Create an index.md file inside the Git directory folder you just cloned.
 2. Edit your resume using Markdown inside the index.md file.
-  * Get a quick Markdown tutorial from this [link!](https://helloacm.com/markdown-markup-language-quick-tutorial/)
+  * **New to Markdown?** Get a quick Markdown tutorial from this [link!](https://helloacm.com/markdown-markup-language-quick-tutorial/)
 3. Create a README.md too if one does not exist already.
 4. Edit your README file using Markdown inside the README.md file.
-  * Here are some guidelines for writing README files ![Guidelines for writing README](https://github.com/Annasisa01/IsaAnnas.github.io/blob/master/img/image3.png)
+  * Here are some guidelines for writing README files ![Guidelines for writing README](https://github.com/Annasisa01/IsaAnnas.github.io/blob/master/img/Image3.png)
     * Check out an example of a README file [here!](https://github.com/alichtman/stronghold#readme)
 
 
