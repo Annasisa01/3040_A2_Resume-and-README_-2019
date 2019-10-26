@@ -1,3 +1,15 @@
+***Audience***: Technical background:
+  * some experience in Atom
+  * no experience in Markdown
+  * some experience in GitHub
+  * no experience with Jekyll  
+
+***Venue***: README file within GitHub Pages.  
+***Purpose***: Write a resume using Markdown, Format the resume with a Jekyll theme, and host resume (for free) on GitHub Pages.
+***Additional purpose***: Increase experience and confidence in technical writing tools: Markdown, Jekyll and GitHub Pages.  
+***Desired Reaction***:Leave Audience.  
+***Vocabulary***: Informal.  
+***Tone***: Enthusiastic.
 # Creating Resume and README on GitHub
 Using Git Flavored Markdown and Jekyll to edit A Resume
 
@@ -35,14 +47,15 @@ Using Git Flavored Markdown and Jekyll to edit A Resume
   + Click on **Stage All** in the Git Tab.
   + Type a commit message inside the text box provided.
   +  Click on `Commit to master`
-  + Click on the `Push` button at the bottom of the page. 
+  + Click on the `Push` button at the bottom of the page.
 
 
 ## License
 View [Permit](https://github.com/Annasisa01/IsaAnnas.github.io/blob/master/license/license.md)
-
-
-## Usage
+## Troubleshooting approach
+## Credits and Acknowledgement
+  * Uklein Anton and Ezzahir Chris for consultation and help with syntax.  
+  * 3040 Course resources by Christina Penner were very helpful in this project.
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
