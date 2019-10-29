@@ -37,6 +37,14 @@ Using Git Flavored Markdown and Jekyll to edit A Resume
   +  Click on `Commit to master`
   + Click on the `Push` button at the bottom of the page.
 7. Apply/Change theme.
+  + Go to your github pages profile.
+  + Click on settings.
+  + Scroll down and select the `Change theme` button.
+    - This would take you to a page where you can select a theme of your choice.
+    - Once you have chosen a theme, a `_config.yml` file would be added to your repository.
+8. Change the title in your hosted resume.
+  + Open the` _config.yml` file.
+  + Add a new line `title: Resume for [Your name]`
 
 ## License
 View [Permit](https://github.com/Annasisa01/IsaAnnas.github.io/blob/master/license/license.md)
