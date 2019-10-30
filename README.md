@@ -60,7 +60,7 @@ This READEME is targeted at people with some background knowledge about Atom IDE
   + Stage Images by clicking the `Stage All` button at the top right of the Git Panel.
   + Write Commit message.
   + Click on `Commit to master` button.
-  ![Gif on how to open new folder](https://github.com/Annasisa01/IsaAnnas.github.io/blob/master/img/Gif2.gif)
+  + ![Gif on how to open new folder](https://github.com/Annasisa01/IsaAnnas.github.io/blob/master/img/Gif2.gif)
   + Use the tag `![ImageDescriptionGoesHere] (LinkToimageGoesHere)` to add you image(s) to your .md file.
 
 ## License
