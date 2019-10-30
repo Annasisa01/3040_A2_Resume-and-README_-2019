@@ -4,7 +4,7 @@ This README is going to explain how to use Git Flavored Markdown and Jekyll to e
 This READEME is targeted at people with some background knowledge about Atom IDE and Github. Also, this README is targeted to people with no experience in Markdown and no experience in Jekyll.
 ## Prerequisites
 ### Step1: Installation
-1. Install IDE
+1. Install a text editor (in this case we are using Atom)
   * Install Atom IDE using this link: [https://flight-manual.atom.io/getting-started/sections/installing-atom/](https://flight-manual.atom.io/getting-started/sections/installing-atom/).
 
 ### Step2: Configuration
@@ -49,13 +49,12 @@ This READEME is targeted at people with some background knowledge about Atom IDE
   + Add a new line `title: Resume for [Your name]`
   + Click on the `Commit Changes` button.
 ## More resources
-Still having problems with Downloading GitHub 
+* Still having problems with installing Atom? Watch a tutorial on how to install Atom ![here](https://www.youtube.com/watch?v=wrKiC3CceYg)
+* Still having problems connecting your GitHub repository with Atom? Watch a tutorial ![here](https://www.youtube.com/watch?v=7Id1_VfbEKo)
+## FAQs
+somEthing.
 ## License
 View [Permit](https://github.com/Annasisa01/IsaAnnas.github.io/blob/master/license/license.md)
 ## Credits and Acknowledgement
   * Uklein Anton and Ezzahir Chris for consultation and help with syntax.  
   * 3040 Course resources by Christina Penner were very helpful in this project.
-<!-- ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate. -->
