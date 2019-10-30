@@ -49,8 +49,8 @@ This READEME is targeted at people with some background knowledge about Atom IDE
   + Add a new line `title: Resume for [Your name]`
   + Click on the `Commit Changes` button.
 ## More resources
-* Still having problems with installing Atom? Watch a tutorial on how to install Atom ![here](https://www.youtube.com/watch?v=wrKiC3CceYg)
-* Still having problems connecting your GitHub repository with Atom? Watch a tutorial ![here](https://www.youtube.com/watch?v=7Id1_VfbEKo)
+* Still having problems with installing Atom? Watch a tutorial on how to install Atom [here](https://www.youtube.com/watch?v=wrKiC3CceYg)
+* Still having problems connecting your GitHub repository with Atom? Watch a tutorial [here](https://www.youtube.com/watch?v=7Id1_VfbEKo)
 ## FAQs
 somEthing.
 ## License
