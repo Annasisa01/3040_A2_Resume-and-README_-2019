@@ -1,11 +1,13 @@
 # Creating Resume and README on GitHub
-Using Git Flavored Markdown and Jekyll to edit A Resume
-
-## Installation
+This README is going to explain how to use Git Flavored Markdown and Jekyll to edit a resume and host it on GitHub Pages.
+## Audience
+This READEME is targeted at people with some background knowledge about Atom IDE and Github. Also, this README is targeted to people with no experience in Markdown and no experience in Jekyll.
+## Prerequisites
+### Step1: Installation
 1. Install IDE
   * Install Atom IDE using this link: [https://flight-manual.atom.io/getting-started/sections/installing-atom/](https://flight-manual.atom.io/getting-started/sections/installing-atom/).
 
-## Configuration
+### Step2: Configuration
 1. Open a new repository on your GitHub Pages account
   + Click on the **New** button ![New Button](https://github.com/Annasisa01/IsaAnnas.github.io/blob/master/img/image1.15.15%20PM.png)
 2. Connect/Clone GitHub repository to Atom IDE.
@@ -19,7 +21,7 @@ Using Git Flavored Markdown and Jekyll to edit A Resume
     - Paste using `Cmd + V` or,  
     - Right click in the panel and then select `"Paste"`
 
-## Operation
+## Instruction (Operations)
 1. Create an index.md file inside the Git directory folder you just cloned.
 2. Edit your resume using Markdown inside the index.md file.
   * **New to Markdown?** Get a quick Markdown tutorial from this [link!](https://helloacm.com/markdown-markup-language-quick-tutorial/)
@@ -45,14 +47,15 @@ Using Git Flavored Markdown and Jekyll to edit A Resume
 8. Change the title in your hosted resume.
   + Open the` _config.yml` file.
   + Add a new line `title: Resume for [Your name]`
-
+  + Click on the `Commit Changes` button.
+## More resources
+Still having problems with Downloading GitHub 
 ## License
 View [Permit](https://github.com/Annasisa01/IsaAnnas.github.io/blob/master/license/license.md)
-## Troubleshooting approach
 ## Credits and Acknowledgement
   * Uklein Anton and Ezzahir Chris for consultation and help with syntax.  
   * 3040 Course resources by Christina Penner were very helpful in this project.
-## Contributing
+<!-- ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
+Please make sure to update tests as appropriate. -->
