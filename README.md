@@ -62,6 +62,8 @@ This READEME is targeted at people with some background knowledge about Atom IDE
   + Click on `Commit to master` button.
   + ![Gif on how to open new folder](https://github.com/Annasisa01/IsaAnnas.github.io/blob/master/img/Gif2.gif)
   + Use the tag `![ImageDescriptionGoesHere] (LinkToimageGoesHere)` to add you image(s) to your .md file.
+  + Commit Changes when done.
+  + Push to your desired branch.
 
 ## License
 View [Permit](https://github.com/Annasisa01/IsaAnnas.github.io/blob/master/license/license.md)
