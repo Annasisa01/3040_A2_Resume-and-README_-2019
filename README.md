@@ -47,12 +47,21 @@ This READEME is targeted at people with some background knowledge about Atom IDE
 8. Change the title in your hosted resume.
   + Open the` _config.yml` file.
   + Add a new line `title: Resume for [Your name]`
-  + Click on the `Commit Changes` button.
+  + Click on the `Commit Changes` button.  
+
 ## More resources
 * Still having problems with installing Atom? Watch a tutorial on how to install Atom [here](https://www.youtube.com/watch?v=wrKiC3CceYg)
-* Still having problems connecting your GitHub repository with Atom? Watch a tutorial [here](https://www.youtube.com/watch?v=7Id1_VfbEKo)
+* Still having problems connecting your GitHub repository with Atom? Watch a tutorial [here](https://www.youtube.com/watch?v=7Id1_VfbEKo)  
+
 ## FAQs
-somEthing.
+* How do i add images to my .md file?
+  + Create a new folder in your local repository. ![Gif on how to open new folder](https://github.com/Annasisa01/IsaAnnas.github.io/blob/master/img/Gif1.gif)
+  + Drag and drop image(s) into the image folder you just created.
+  + Stage Images by clicking the `Stage All` button at the top right of the Git Panel.
+  + Write Commit message.
+  + Click on `Commit to master` button. ![Gif on how to open new folder](https://github.com/Annasisa01/IsaAnnas.github.io/blob/master/img/Gif2.gif)
+  + Use the tag `![ImageDescriptionGoesHere] (LinkToimageGoesHere)` to add you image(s) to your .md file.
+
 ## License
 View [Permit](https://github.com/Annasisa01/IsaAnnas.github.io/blob/master/license/license.md)
 ## Credits and Acknowledgement
