@@ -44,10 +44,6 @@ This READEME is targeted at people with some background knowledge about Atom IDE
   + Scroll down and select the `Change theme` button.
     - This would take you to a page where you can select a theme of your choice.
     - Once you have chosen a theme, a `_config.yml` file would be added to your repository.
-8. Change the title in your hosted resume.
-  + Open the` _config.yml` file.
-  + Add a new line `title: Resume for [Your name]`
-  + Click on the `Commit Changes` button.  
 
 ## More resources
 * Still having problems with installing Atom? Watch a tutorial on how to install Atom [here](https://www.youtube.com/watch?v=wrKiC3CceYg)
@@ -64,6 +60,10 @@ This READEME is targeted at people with some background knowledge about Atom IDE
   + Use the tag `![ImageDescriptionGoesHere] (LinkToimageGoesHere)` to add you image(s) to your .md file.
   + Commit Changes when done.
   + Push to your desired branch.
+* How do i add title to my hosted resume?
+  + Open the` _config.yml` file.
+  + Add a new line `title: Resume for [Your name]`
+  + Click on the `Commit Changes` button.  
 
 ## License
 View [Permit](https://github.com/Annasisa01/IsaAnnas.github.io/blob/master/license/license.md)
